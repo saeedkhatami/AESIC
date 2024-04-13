@@ -1,4 +1,4 @@
-# AES Implementation in C
+# AES in C
 
 This is a very simple (and **NOT a highly optimized and secure**) implementation of AES only written to teach you the **BASICS** of this algorithm.
 
