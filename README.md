@@ -54,7 +54,7 @@ In the  SubBytes step, each byte a ${i,j}$ in the _state_ array is replaced with
 
 ### The ShiftRows step
 
-[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/66/AES-ShiftRows.svg/320px-AES-ShiftRows.svg.png)](https://en.wikipedia.org/wiki/File:AES-ShiftRows.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/6/66/AES-ShiftRows.svg)
 
 In the  ShiftRows step, bytes in each row of the state are shifted cyclically to the left. The number of places each byte is shifted differs incrementally for each row.
 
@@ -76,8 +76,7 @@ In the  MixColumns step, the four bytes of each column of the state are combined
 
 During this operation, each column is transformed using a fixed matrix (matrix left-multiplied by column gives new value of column in the state):
 
-$$
-\begin{bmatrix}
+$$\begin{bmatrix}
 b_{0,j} \\
 b_{1,j} \\
 b_{2,j} \\
