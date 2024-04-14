@@ -81,9 +81,7 @@ b_{0,j} \\
 b_{1,j} \\
 b_{2,j} \\
 b_{3,j}
-\end{bmatrix}
-=
-\begin{bmatrix}
+\end{bmatrix}=\begin{bmatrix}
 2 & 3 & 1 & 1 \\
 1 & 2 & 3 & 1 \\
 1 & 1 & 2 & 3 \\
