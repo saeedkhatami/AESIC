@@ -4,7 +4,7 @@
 
 This is a very simple (and **NOT a highly optimized and secure**) implementation of AES only written to teach you the **BASICS** of this algorithm.
 
-Advanced Encryption Standard
+## Advanced Encryption Standard
 
 AES is based on a design principle known as a [substitution–permutation network](https://en.wikipedia.org/wiki/Substitution%E2%80%93permutation_network "Substitution–permutation network"), and is efficient in both software and hardware. Unlike its predecessor DES, AES does not use a [Feistel network](https://en.wikipedia.org/wiki/Feistel_network "Feistel network"). AES is a variant of Rijndael, with a fixed [block size](https://en.wikipedia.org/wiki/Block_size_(cryptography) "Block size (cryptography)") of 128 [bits](https://en.wikipedia.org/wiki/Bit "Bit"), and a [key size](https://en.wikipedia.org/wiki/Key_size "Key size") of 128, 192, or 256 bits. By contrast, Rijndael _per se_ is specified with block and key sizes that may be any multiple of 32 bits, with a minimum of 128 and a maximum of 256 bits. Most AES calculations are done in a particular [finite field](https://en.wikipedia.org/wiki/Finite_field_arithmetic "Finite field arithmetic").
 
